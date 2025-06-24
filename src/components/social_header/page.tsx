@@ -24,7 +24,6 @@ const page = () => {
                 {/* right */}
                 <div className='flex gap-8 text-white cursor-pointer'>
                     <FacebookOutlined fontSize='small' />
-                    <FacebookOutlined fontSize='small' />
                     <Instagram fontSize='small' />
                     <Twitter fontSize='small' />
                     <LinkedIn fontSize='small' />
